@@ -9,4 +9,5 @@ body{
 body{
     background-image: url('images/bluerobynbackground.jpg');
     background-size: cover;
+    background-position: top right;
 }
